@@ -17,6 +17,6 @@ Step to run the project.
 9. You will get the email by sumit testing. 
 10. after 30 min it will auto trigger the mail to admin. 
 Steps to run the background task. 
-Follow the same steps upto 3.b then run the below command
-python3 manage.py run background_tasks
+open another terminal window Follow the same steps upto 3.b then run the below command
+pip3 install django-background-tasks
 
